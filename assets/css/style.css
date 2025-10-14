@@ -3550,7 +3550,7 @@ button.tm-videobutton.tm-videobutton-lg span i {
   }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1599px) {
+@media only screen and (min-width: 1300px) and (max-width: 1599px) {
   .heroslider-slider .tm-slider-arrow-prev {
     left: 15px;
   }
