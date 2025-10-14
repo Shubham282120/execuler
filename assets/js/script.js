@@ -2,7 +2,7 @@ const teamData = {
     harshala: {
         name: "Harshala Vishal",
         title: "Co-Founder & Head of FinOps",
-        image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400&h=400&fit=crop",
+        image: "assets/images/own/Harshala.jpg",
         about: "Harshala is an agile and dynamic finance leader with over 15 years of hands-on experience in accounting, compliance, MIS, and shared service operations. At Execuler, she leads the FinOps division — where financial accuracy meets intelligent automation. Her deep expertise across industries and geographies helps clients achieve clarity, compliance, and control over their financial operations. Harshala's strategic vision lies in turning financial complexity into streamlined, data-driven systems that scale with confidence.",
         expertise: [
             "End-to-End Accounting & Financial Reporting",
@@ -18,7 +18,7 @@ const teamData = {
     sana: {
         name: "Sana Shaikh",
         title: "Co-Founder & Head of Client Success",
-        image: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400&h=400&fit=crop",
+        image: "assets/images/own/sana.jpg",
         about: "Sana is an enthusiastic and result-driven finance professional with over 15 years of experience across accounting, process automation, and client operations. As the Head of Client Success at Execuler, she champions efficiency, transparency, and partnership excellence. Sana bridges operational depth with client empathy, ensuring every engagement delivers measurable results and a seamless experience powered by AI and smart systems.",
         expertise: [
             "Financial Planning, Budgeting & Forecasting",
